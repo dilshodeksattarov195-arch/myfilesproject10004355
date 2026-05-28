@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchfender",
+        "uuid": 25198030,
+        "checksum": "9plxgc"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
